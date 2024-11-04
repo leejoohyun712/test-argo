@@ -26,6 +26,6 @@ spec:
     spec:
       containers:
       - name: argo
-        image: nginx
+        image: leejoohyun/test:image
         ports:
         - containerPort: 80
